@@ -1,1 +1,1 @@
-"# Fritzing-part-node32s" 
+<img>resource/node.jpg</img>
